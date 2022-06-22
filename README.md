@@ -9,4 +9,4 @@
 - При уменьшении контейнера блоки в SECOND-SECTION уменьшаются, соотношение сторон сохраняется.
 
 ### Ссылка на сайт:  
-https://alexandrzagumennov.github.io/NodaSoft-test-task/  gi
+https://alexandrzagumennov.github.io/NodaSoft-test-task/ 
